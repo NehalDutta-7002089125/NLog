@@ -1,0 +1,2 @@
+﻿2023-01-12 08:31:11.0008|DEBUG|NlogDemo.NLog|Debug Successfull : Sum()
+2023-01-12 08:31:11.0061|INFO|NlogDemo.NLog|Sum method passed, Result5
